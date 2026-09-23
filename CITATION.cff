@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Se usar este material, cite-o conforme os metadados abaixo."
+type: software
+title: "Prompt: Extração de Dados TIC Empresas"
+abstract: "Prompt operacional para construir pipeline R reprodutível com os microdados da pesquisa TIC Empresas (Cetic.br), com detecção de ondas, recodificação pelo dicionário, painel por setor e validação contra totais oficiais. Integra a coleção de prompts de pesquisa acadêmica assistida por IA de Darci de Borba (Ipea)."
+authors:
+  - family-names: "Santos Júnior"
+    given-names: "Darci de Borba"
+    affiliation: "Instituto de Pesquisa Econômica Aplicada (Ipea)"
+    orcid: "https://orcid.org/0000-0001-9851-5034"
+version: "1.0.0"
+date-released: "2026-09-23"
+repository-code: "https://github.com/darcideborba/prompt-extracao-tic-empresas"
+license: MIT
+keywords:
+  - "Cetic.br"
+  - "pesquisa acadêmica"
+  - "R"
+  - "TIC Empresas"
+  - "microdados"
+  - "inteligência artificial"
